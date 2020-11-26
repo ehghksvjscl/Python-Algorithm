@@ -1,8 +1,10 @@
-num = int(input()) #구하고싶은 숫자 입력
-i = 1
-def Greatest(i):
-    while i * (i + 1) / 2 <= num: #최소공배수 조건문
-        i += 1 #1씩 증가
-    return i-1 #호출 함수 리턴값
+T = int(input()) #테스트 횟수 T 입력
 
-print(Greatest(i)) #함수 호출
+def gcd(num1, num2): #최대공약수 함수 정의
+    while num2 != 0: #조건문
+            num1, num2 = num2, num1%num2
+    return num1 #마지막 num1을 반환
+
+for i in range(T): #반복문
+    num1, num2 = map(int, input().split()) #최대공배수를 구할 두 수 입력
+    print((num1*num2)//gcd(num1,num2)) #두수의 곱 나누기 최대공약수 = 최대공배수
