@@ -11,5 +11,7 @@ if first_person > secend_person:
     print(sort_arr[0])
 elif first_person < secend_person:
     print(sort_arr[-1])
-else:
+elif first_person == secend_person:
+
+
     print("Tie")
