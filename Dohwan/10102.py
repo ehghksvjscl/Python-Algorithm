@@ -12,4 +12,6 @@ if first_person > secend_person:
 elif first_person < secend_person:
     print(sort_arr[-1])
 elif first_person == secend_person:
+
+
     print("Tie")
