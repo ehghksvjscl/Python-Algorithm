@@ -1,14 +1,16 @@
-dice_1, dice_2, dice_3 = map(int, input().split()) #주사위 3개 입력받기
-dice_list = [dice_1, dice_2, dice_3] #리스트 선언
+N = int(input())
+dice_price = []
 
-def dice_price(): #주사위 상금 함수
+for i in range(0, N):
+    dice_1, dice_2, dice_3 = map(int, input().split())
+    dice_list = [dice_1, dice_2, dice_3]
     if dice_1-dice_2==0 and dice_2-dice_3==0:
-        print(10000+(dice_1*1000))
+        dice_price.append(10000+(dice_1*1000))
     elif dice_1-dice_2==0 or dice_1-dice_3==0:
-        print(1000+dice_1*100)
+        dice_price.append(1000+dice_1*100)
     elif dice_2-dice_3==0: 
-        print(1000+dice_2*100)
+        dice_price.append(1000+dice_2*100)
     else:
-        print(max(dice_list)*100)
+        dice_price.append(max(dice_list)*100)
 
-dice_price() #함수 호출
+print(max(dice_price))
