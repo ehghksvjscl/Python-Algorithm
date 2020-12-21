@@ -1,0 +1,6 @@
+print(472)
+print(385)
+print(472*5)
+print(472*8)
+print(472*3)
+print(472*385)
