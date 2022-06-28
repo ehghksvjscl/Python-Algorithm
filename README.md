@@ -3,14 +3,17 @@
 
 ## **알고리즘 문제 풀이 with Python**
 
-🎯 `1주일에 최소 7문제 이상`을 푸는 것을 목표로 합니다.
+
+🎯 `1주일에 최소 7문제 이상`을 푸는 것을 목표로 합니다..
+  
+  
+[🔗 프로그래머스 코딩테스트 연습 바로가기 Click!](https://programmers.co.kr/learn/challenges) 👈  
+<br>
 <br> 
-
-[🔗 프로그래머스 코딩테스트 연습 바로가기 Click!](https://programmers.co.kr/learn/challenges) 👈
-> 
-
-> 새 창 열기 방법 : CTRL+click (on Windows and Linux) | CMD+click (on MacOS)
-> 
+  
+> 새 창 열기 방법 : CTRL+click (on Windows and Linux) | CMD+click (on MacOS)  
+<br>
+<br>
 
 ## **📅 문제 풀이 진행 일정**
 
