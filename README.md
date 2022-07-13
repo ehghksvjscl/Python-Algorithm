@@ -31,3 +31,4 @@
 | --- | --- | --- |
 | level 2 | [N개의 최소 공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953#qna) | [python](https://github.com/ehghksvjscl/Python-Algorithm/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.py) |
 | level 2 | [미로찾기 Stack](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDN86AAXw5UW6&subjectId=AWOVIc7KqfQDFAWg#) | [python](https://github.com/ehghksvjscl/Python-Algorithm/blob/master/%EC%97%B0%EC%8A%B5/%EB%AF%B8%EB%A1%9C%EC%B0%BE%EA%B8%B0(stack).py) |
+| level 1 | K번째 약수 | [python](https://github.com/ehghksvjscl/Python-Algorithm/blob/master/%EC%97%B0%EC%8A%B5/%EA%B5%AC%ED%98%84/K%EB%B2%88%EC%A7%B8%20%EC%95%BD%EC%88%98.py) |
