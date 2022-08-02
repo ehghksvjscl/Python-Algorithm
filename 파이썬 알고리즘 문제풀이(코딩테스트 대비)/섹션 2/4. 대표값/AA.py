@@ -2,7 +2,7 @@ import sys
 
 # File Path 설정
 file_path = "C:/Users/dhkim/Desktop/python-algorithm/파이썬 알고리즘 문제풀이(코딩테스트 대비)/섹션 2/4. 대표값/in2.txt"
-sys.stdin = open(file_path, "rt")
+# sys.stdin = open(file_path, "rt")
 
 # 값 받기
 max_value = 0
@@ -12,8 +12,14 @@ min_value = 9999999
 arr = list(map(int, input().split()))
 answer = []
 
+# round는 논리적 문제가 있음
+# avg_arr = round(sum(arr) / len(arr))
+
 # 평균값 구하기
-avg_arr = round(sum(arr) / len(arr))
+avg_arr = sum(arr) / len(arr)
+avg_arr += 0.5
+avg_arr = int(avg_arr)
+
 
 # 평균값과 가까운 값 구하기
 for i in arr:
