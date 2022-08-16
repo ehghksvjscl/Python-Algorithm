@@ -1,5 +1,12 @@
-# 모든 경우의 수
-for i in range(n):
-    for j in range(i+1, n):
-        for m in range(j+1, n):
-            answer.add(arr[i] + arr[j] + arr[m])
+import bcrypt
+import jwt
+
+hash_pass1 = bcrypt.hashpw(b"password", bcrypt.gensalt()).hex()
+print(hash_pass1)
+
+hashed_password = bcrypt.hashpw("password".encode('utf-8'), bcrypt.gensalt()).decode('utf-8')
+print(hashed_password.decode())
+
+secret = "secret"
+
+access_token = jwt.encode({"id":"1"}, secret, algorithm="HS256").hex()
