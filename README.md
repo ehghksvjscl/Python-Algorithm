@@ -55,3 +55,14 @@
 | level 1 | [소수(에라토스테네스 체)](https://github.com/ehghksvjscl/python-algorithm/blob/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4(%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%8C%80%EB%B9%84)/%EC%84%B9%EC%85%98%202/%EC%84%B9%EC%85%98%202.%20%EC%BD%94%EB%93%9C%20%EA%B5%AC%ED%98%84%EB%8A%A5%EB%A0%A5%20%EA%B8%B0%EB%A5%B4%EA%B8%B0.pdf) | [python](https://github.com/ehghksvjscl/python-algorithm/blob/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4(%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%8C%80%EB%B9%84)/%EC%84%B9%EC%85%98%202/7.%20%EC%86%8C%EC%88%98(%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%20%EC%B2%B4)/AA.py) | 인프런 인강 |
 | level 1 | [뒤집은 소수](https://github.com/ehghksvjscl/python-algorithm/blob/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4(%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%8C%80%EB%B9%84)/%EC%84%B9%EC%85%98%202/%EC%84%B9%EC%85%98%202.%20%EC%BD%94%EB%93%9C%20%EA%B5%AC%ED%98%84%EB%8A%A5%EB%A0%A5%20%EA%B8%B0%EB%A5%B4%EA%B8%B0.pdf) | [python](https://github.com/ehghksvjscl/python-algorithm/blob/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4(%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%8C%80%EB%B9%84)/%EC%84%B9%EC%85%98%202/8.%20%EB%92%A4%EC%A7%91%EC%9D%80%20%EC%86%8C%EC%88%98/AA.py) | 인프런 인강 |
 | level 1 | [주사위 게임](https://github.com/ehghksvjscl/python-algorithm/blob/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4(%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%8C%80%EB%B9%84)/%EC%84%B9%EC%85%98%202/%EC%84%B9%EC%85%98%202.%20%EC%BD%94%EB%93%9C%20%EA%B5%AC%ED%98%84%EB%8A%A5%EB%A0%A5%20%EA%B8%B0%EB%A5%B4%EA%B8%B0.pdf) | [python](https://github.com/ehghksvjscl/python-algorithm/blob/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4(%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%8C%80%EB%B9%84)/%EC%84%B9%EC%85%98%202/9.%20%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B2%8C%EC%9E%84/AA.py) | 인프런 인강 |
+| level 1 | [1. 회문 문자열 검사]() | [python]() | 인프런 인강 |
+| level 1 | [2. 숫자만 추출]() | [python]() | 인프런 인강 |
+| level 1 | [3. 카드 역배치]() | [python]() | 인프런 인강 |
+| level 1 | [4. 두 리스트 합치기]() | [python]() | 인프런 인강 |
+| level 1 | [5. 수들의 합]() | [python]() | 인프런 인강 |
+| level 1 | [6. 격자판 최대합]() | [python]() | 인프런 인강 |
+| level 1 | [7. 사과나무]() | [python]() | 인프런 인강 |
+| level 1 | [8. 곳감]() | [python]() | 인프런 인강 |
+| level 1 | [9. 봉우리]() | [python]() | 인프런 인강 |
+| level 1 | [10. 스도쿠 검사]() | [python]() | 인프런 인강 |
+| level 1 | [11. 격자판 회문수]() | [python]() | 인프런 인강 |
