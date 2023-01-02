@@ -16,14 +16,15 @@ RIGHT = 1
 changeCycle = int(input())
 for _ in range(changeCycle):
     row, direction, changeCount = map(int, input().split())
+    changeCount %= gridLength
     newGrid = [0 for _ in range(gridLength)]
     for i in range(gridLength):
         if direction == LEFT:
-            newGrid[i-changeCount] = grid[row-1][i]
+            newGrid[i - changeCount] = grid[row - 1][i]
         else:
-            newGrid[(i+changeCount) % gridLength] = grid[row-1][i]
+            newGrid[(i + changeCount) % gridLength] = grid[row - 1][i]
 
-    grid[row-1] = newGrid
+    grid[row - 1] = newGrid
 
 
 startPoint = 0
