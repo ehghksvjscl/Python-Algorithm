@@ -9,21 +9,16 @@ if sys.argv[-1] == "local":
 grid = [list(map(int, input().split())) for _ in range(7)]
 cnt = 0
 
-# 가로를 구했고
-for i in range(7):
-    for j in range(3):
-        if grid[i][j : j + 5] == list(reversed(grid[i][j : j + 5])):
+for i in range(3):
+    for j in range(7):
+        temp = grid[j][i : i + 5]
+        if temp == temp[::-1]:
             cnt += 1
 
-# 세로를 구했다.
-for k in range(7):
-    for j in range(3):
-        chList = []
-        for i in range(5):
-            chList.append(grid[i + j][k])
-
-        if chList == list(reversed(chList)):
+        for k in range(2):
+            if grid[i + k][j] != grid[i + 5 - k - 1][j]:
+                break
+        else:
             cnt += 1
-
 
 print(cnt)
