@@ -13,6 +13,7 @@ recordTimeList = list(map(int, input().split()))
 lt = 1
 rt = sum(recordTimeList)
 res = 0
+maxx = max(recordTimeList)
 
 while lt<=rt:
     mid = (rt + lt) // 2 
@@ -25,8 +26,7 @@ while lt<=rt:
         
         total += i
 
-
-    if cnt <= hasDVD:
+    if mid>= maxx and cnt <= hasDVD:
         rt = mid - 1
         res = mid
     else:
