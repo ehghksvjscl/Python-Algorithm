@@ -21,3 +21,5 @@ for i in range(n):
             array[i] -= 1
 
 print(*tmp)
+#
+#
